@@ -51,7 +51,7 @@ body {
   align-items: center;
   padding: 10px;
   border-radius: 16px;
-  background-image: url(/images/batik.png);
+  background-image: url("/images/batik.png");
   background-size: cover; /* Set background size to cover */
   margin-left: 30px;
   margin-right: 30px;
